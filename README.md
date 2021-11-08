@@ -1,5 +1,11 @@
 # Green-Lab---Assignment-3
 
+NOTE: Experiment data must be downloaded from the link below before use, and is to be put in the 'experiments' folder.
+
+Experiment data link: https://drive.google.com/drive/folders/1-XZBgB0VoVKZDCg6lQJZR_5J29Vzdnf7?usp=sharing
+
+
+
 The 'code' folder contains all code used for producing the results as in our Overleaf document (link: https://www.overleaf.com/read/sbbzpvmrqjtm)
 
 The 'results' folder contains all said results in the form of histograms, QQplots and violin plots. The tables that can be seen in our 
